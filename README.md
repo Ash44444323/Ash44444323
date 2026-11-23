@@ -5,4 +5,4 @@ I like coding
 
 ![Luau](https://img.shields.io/badge/LUAU-0D1117?style=for-the-badge&logo=lua&logoColor=white)
 
-![Typescript](https://img.shields.io/badge/TYPESCRIPT-0D1117?style=for-the-badge&logo=lua&logoColor=white)
+![Typescript](https://img.shields.io/badge/TYPESCRIPT-0D1117?style=for-the-badge&logo=typescript&logoColor=white)
